@@ -1,3 +1,0 @@
-task:
- -init: npm install
- command: npm run dev
